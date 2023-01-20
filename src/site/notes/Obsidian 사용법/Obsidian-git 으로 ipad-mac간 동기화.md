@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian/obsidian-git-ipad-mac/","tags":["gardenEntry"]}
 ---
 
-
+# Obsidian-git 으로 ipad-mac간 동기화 하기 
 1. 준비물 
 	1. H/W
 		1. iPad
