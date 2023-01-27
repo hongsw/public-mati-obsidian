@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/obsidian/obsidian-git-ipad-mac/","tags":["gardenEntry"]}
 ---
 
+
+[[메이커로그/통영에서 워케이션을 하다\|메이커로그/통영에서 워케이션을 하다]]
+
+
 # Obsidian-git 으로 ipad-mac간 동기화 하기 
 	1. 준비물 
 	2. H/W¨
